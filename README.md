@@ -1,6 +1,5 @@
-name:tahi vna haong lnih
-email:haonglnih@gmail.com
-cài node js <br>
+
+cai node js <br>
 npm<br>
 b1.vao thu muc(lesson)<br>
 b2.(npx create-react-app .)<br>
